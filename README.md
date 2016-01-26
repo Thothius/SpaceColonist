@@ -1,4 +1,4 @@
-# Muki
+# Space Colonist
     Space Colonist is a space survival simulation, where you play as a lone survivor on a desolate space colony.
     Inspired by the novel "The Martian" by Andy Weir.
     Copyright (C) 2016  Kristjan Saaremets
